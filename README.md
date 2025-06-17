@@ -5,4 +5,4 @@
 </div>
 
 <h3>My Exprience : </h3>
-<img src='https://skillicons.dev/icons?i=cs,dotnet,git,github,html,css,js,bootstrap,jquery,mysql,redis'
+<img src='https://skillicons.dev/icons?i=cs,dotnet,git,github,html,css,js,bootstrap,jquery,mysql,redis'>'
